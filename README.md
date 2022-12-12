@@ -1,2 +1,3 @@
 # Calculadora-Simples-Python
-operações básicas + - / *
+
+Operações básicas de soma, subtração, divisão e multiplicação.
